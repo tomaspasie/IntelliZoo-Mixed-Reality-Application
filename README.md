@@ -47,6 +47,7 @@ The name of my app is IntelliZoo. I chose this name because it conveys the data-
 Input method may vary by Mixed Reality headset, for these cognitive walkthroughs, we will assume the mixed reality headset has hand-tracking capabilities and will use the word “select” when that input capability is to be used. 
 ### Action Statements
 Objective (Features): Analyzing a Tiger’s past live footage, then creating a new note of the findings, and finally calling the Tiger’s veterinarian.
+
 1.	I selected the Tiger from one of the two available methods (ANIMALS panel or 3D interactive map).
 2.	I acknowledged the most recent note to know what I have to do.
 3.	I activated the “Past Live Footage” Feature.
